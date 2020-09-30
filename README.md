@@ -10,6 +10,7 @@
 - Sensorless Homing
 - Babystepping 
 - Working M600
+- Baudrate set to 115200 (TFT and Board must match!)
 
 Recommended: [TFT Firmware by digant](https://www.thingiverse.com/thing:4294049)
 
