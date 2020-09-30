@@ -13,6 +13,8 @@
 
 Recommended: [TFT Firmware by digant](https://www.thingiverse.com/thing:4294049)
 
+Before uploading the firmware, review your individual settings with M503 and store them in a textfile. After uploading the firmware to your board, please reset to factory defaults (M502) and store the values (M500). Restore your individual settings from the textfile you've created (PID, steps, threshold, etc.).
+
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
 ![GitHub contributors](https://img.shields.io/github/contributors/marlinfirmware/marlin.svg)
 ![GitHub Release Date](https://img.shields.io/github/release-date/marlinfirmware/marlin.svg)
