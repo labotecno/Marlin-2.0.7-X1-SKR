@@ -1,6 +1,6 @@
 # Marlin 3D Printer Firmware
 
-<img src="https://repository-images.githubusercontent.com/296928382/056c4a00-fabc-11ea-8acd-c6de782397ad" />
+<img src="https://repository-images.githubusercontent.com/299765862/ef7f3600-02c0-11eb-937e-b514287f7049" />
 
 ## 2.0.7 Modified for Artillery Sidewinder X1
 
