@@ -11,6 +11,7 @@
 - Babystepping 
 - Working M600
 - Baudrate set to 115200 (TFT and Board must match!)
+- HE1 set to FAN1_PIN
 
 Recommended: [TFT Firmware by digant](https://www.thingiverse.com/thing:4294049)
 
